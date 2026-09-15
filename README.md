@@ -2,5 +2,5 @@
 To run it, open the Python script in Maya and execute it to launch the GUI.
 In the future, I would add more environment options and make the seasonal changes more detailed.
 
-Recording: 
+Recording: https://vimeo.com/1226822668?share=copy&fl=sv&fe=ci
 
